@@ -29,9 +29,5 @@ The project aims to answer the following key business questions using SQL querie
 1️⃣4️⃣ Top Actors in Indian Movies: Identify the top 10 actors who have appeared in the highest number of movies produced in India.
 1️⃣5️⃣ Content Categorization Based on Keywords: Categorize content based on the presence of the keywords "kill" and "violence" in the description. Label such content as "Bad" and the rest as "Good". Count how many items fall into each category.
 
-🛠️ Technologies Used
-SQL – Data analysis and querying
-Database Management System – (e.g., MySQL, PostgreSQL, or SQLite)
-Python (Optional) – For additional data visualization (if needed)
 📌 Conclusion
 By analyzing Netflix's dataset, this project provides key insights into content trends, regional content distribution, viewer preferences, and keyword-based classification. These insights can help business analysts, content creators, and decision-makers make data-driven decisions for content strategy and audience engagement.
