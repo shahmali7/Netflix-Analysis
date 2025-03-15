@@ -11,23 +11,23 @@ This README provides a detailed overview of the project’s objectives, business
 
 💼 Business Problems
 
-The project aims to answer the following key business questions using SQL queries:
 
-1 Content Distribution: Count the number of movies vs. TV shows on Netflix.
-2 Popular Ratings: Find the most common rating for both movies and TV shows.
-3 Yearly Releases: List all movies released in a specific year (e.g., 2020).
-4 Top Content-Producing Countries: Identify the top 5 countries with the most content on Netflix.
-5 Longest Movie: Determine the longest movie available on the platform.
-6 Recent Additions: Find all content added in the last 5 years.
-7 Director-Specific Content: List all movies/TV shows directed by Rajiv Chilaka.
-8 Long-Running TV Shows: List all TV shows with more than 5 seasons.
-9 Genre Analysis: Count the number of content items in each genre.
-10 Content Release Trends in India: Find each year and the average number of content releases in India. Return the top 5 years with the highest average content release.
-11 Documentary Movies: List all movies that are categorized as documentaries.
-12 Missing Directors: Find all content that does not have a listed director.
-13 Actor-Specific Analysis: Count how many movies actor Salman Khan appeared in during the last 10 years.
-14 Top Actors in Indian Movies: Identify the top 10 actors who have appeared in the highest number of movies produced in India.
-15 Content Categorization Based on Keywords: Categorize content based on the presence of the keywords "kill" and "violence" in the description. Label such content as "Bad" and the rest as "Good". Count how many items fall into each category.
+1. **Content Distribution:** Count the number of movies vs. TV shows on Netflix.  
+2. **Popular Ratings:** Find the most common rating for both movies and TV shows.  
+3. **Yearly Releases:** List all movies released in a specific year (e.g., 2020).  
+4. **Top Content-Producing Countries:** Identify the top 5 countries with the most content on Netflix.  
+5. **Longest Movie:** Determine the longest movie available on the platform.  
+6. **Recent Additions:** Find all content added in the last 5 years.  
+7. **Director-Specific Content:** List all movies/TV shows directed by **Rajiv Chilaka**.  
+8. **Long-Running TV Shows:** List all TV shows with more than **5 seasons**.  
+9. **Genre Analysis:** Count the number of content items in each genre.  
+10. **Content Release Trends in India:** Find the **top 5 years** with the highest average content release.  
+11. **Documentary Movies:** List all movies categorized as documentaries.  
+12. **Missing Directors:** Find all content that does not have a listed director.  
+13. **Actor-Specific Analysis:** Count how many movies **Salman Khan** appeared in during the last **10 years**.  
+14. **Top Actors in Indian Movies:** Identify the **top 10 actors** who have appeared in the highest number of movies produced in India.  
+15. **Content Categorization Based on Keywords:** Categorize content based on the presence of the keywords **"kill"** and **"violence"** in the description. Label such content as **"Bad"** and the rest as **"Good"**. Count how many items fall into each category.  
+
 
 📌 Conclusion
 
